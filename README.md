@@ -2,7 +2,7 @@
 
 #### Exercíocio  1 está em 'excarro' e para executar ele é o CarroTestar.
 
-#### Exercíocio 2 está em 'eximposto' e para executar é o 'Main' *(Nãoconseguir avançar nele fiquei travado por isso está incompleto).
+#### Exercíocio 2 está em 'eximposto' e para executar é o 'Main' ****(Não conseguir avançar nele fiquei travado por isso está incompleto).
 
 #### Exercíocio 3 está em 'exgame' e para executar  é o 'Personagem'.
 
